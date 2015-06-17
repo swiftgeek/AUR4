@@ -1,0 +1,4 @@
+[submodule "brother-dcpj125"]
+	path = brother-dcpj125
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = brother-dcpj125
