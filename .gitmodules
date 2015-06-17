@@ -2,3 +2,159 @@
 	path = brother-dcpj125
 	url = git@github.com:swiftgeek/AUR4.git
 	branch = brother-dcpj125
+[submodule "backports-patched"]
+	path = backports-patched
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = backports-patched
+[submodule "changeling"]
+	path = changeling
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = changeling
+[submodule "e4rat"]
+	path = e4rat
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = e4rat
+[submodule "earlyoom-git"]
+	path = earlyoom-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = earlyoom-git
+[submodule "firefox-nightly-i18n"]
+	path = firefox-nightly-i18n
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = firefox-nightly-i18n
+[submodule "gputest"]
+	path = gputest
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = gputest
+[submodule "kicad-library-git"]
+	path = kicad-library-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = kicad-library-git
+[submodule "kmscube-git"]
+	path = kmscube-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = kmscube-git
+[submodule "netfabb-basic"]
+	path = netfabb-basic
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = netfabb-basic
+[submodule "oregano"]
+	path = oregano
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = oregano
+[submodule "osmocombb-git"]
+	path = osmocombb-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = osmocombb-git
+[submodule "pacman-cage"]
+	path = pacman-cage
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = pacman-cage
+[submodule "perl-alien-wxwidgets"]
+	path = perl-alien-wxwidgets
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-alien-wxwidgets
+[submodule "perl-boost-geometry-utils"]
+	path = perl-boost-geometry-utils
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-boost-geometry-utils
+[submodule "perl-constant-defer"]
+	path = perl-constant-defer
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-constant-defer
+[submodule "perl-extutils-cppguess"]
+	path = perl-extutils-cppguess
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-extutils-cppguess
+[submodule "perl-extutils-makemaker-aur"]
+	path = perl-extutils-makemaker-aur
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-extutils-makemaker-aur
+[submodule "perl-extutils-parsexs-aur"]
+	path = perl-extutils-parsexs-aur
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-extutils-parsexs-aur
+[submodule "perl-extutils-typemaps-default"]
+	path = perl-extutils-typemaps-default
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-extutils-typemaps-default
+[submodule "perl-math-clipper"]
+	path = perl-math-clipper
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-clipper
+[submodule "perl-math-convexhull"]
+	path = perl-math-convexhull
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-convexhull
+[submodule "perl-math-convexhull-monotonechain"]
+	path = perl-math-convexhull-monotonechain
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-convexhull-monotonechain
+[submodule "perl-math-geometry-voronoi"]
+	path = perl-math-geometry-voronoi
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-geometry-voronoi
+[submodule "perl-math-libm"]
+	path = perl-math-libm
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-libm
+[submodule "perl-math-planepath"]
+	path = perl-math-planepath
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-math-planepath
+[submodule "perl-module-build-withxspp"]
+	path = perl-module-build-withxspp
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-module-build-withxspp
+[submodule "perl-opengl"]
+	path = perl-opengl
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-opengl
+[submodule "perl-threads-aur"]
+	path = perl-threads-aur
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-threads-aur
+[submodule "perl-wx-glcanvas"]
+	path = perl-wx-glcanvas
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-wx-glcanvas
+[submodule "perl-xml-sax-expatxs"]
+	path = perl-xml-sax-expatxs
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = perl-xml-sax-expatxs
+[submodule "python-powerline"]
+	path = python-powerline
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = python-powerline
+[submodule "python-pylibftdi"]
+	path = python-pylibftdi
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = python-pylibftdi
+[submodule "python2-gtkglext"]
+	path = python2-gtkglext
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = python2-gtkglext
+[submodule "qrigol-git"]
+	path = qrigol-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = qrigol-git
+[submodule "qt5-wayland-git"]
+	path = qt5-wayland-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = qt5-wayland-git
+[submodule "sdr-j-dabreceiver"]
+	path = sdr-j-dabreceiver
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = sdr-j-dabreceiver
+[submodule "slic3r-git"]
+	path = slic3r-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = slic3r-git
+[submodule "vsprog-git"]
+	path = vsprog-git
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = vsprog-git
+[submodule "xsendkey"]
+	path = xsendkey
+	url = git@github.com:swiftgeek/AUR4.git
+	branch = xsendkey
